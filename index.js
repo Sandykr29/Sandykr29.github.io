@@ -23,10 +23,10 @@ function closeMenu() {
 GitHubCalendar(".react-activity-calendar", "Sandykr29", { responsive: true });
 
 document.getElementById("resume-button-1").onclick = ()=>{
-    // location.href= "\\static\\pdf\\Sandeep_Kumar_Resume.pdf"
-    window.open("\\static\\pdf\\Sandeep_Kumar_Resume.pdf",'_blank')
+    // location.href= "\\static\\pdf\\Sandeep-Kumar-Resume.pdf.pdf"
+    window.open("\\static\\pdf\\Sandeep-Kumar-Resume.pdf",'_blank')
 }
 document.getElementById("resume-button-2").onclick = ()=>{
-    // location.href= "\\static\\pdf\\Sandeep_Kumar_Resume.pdf"
-    window.open("\\static\\pdf\\Sandeep_Kumar_Resume.pdf",'_blank')
+    // location.href= "\\static\\pdf\\Sandeep-Kumar-Resume.pdf"
+    window.open("\\static\\pdf\\Sandeep-Kumar-Resume.pdf.pdf",'_blank')
 }
