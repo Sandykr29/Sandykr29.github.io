@@ -28,5 +28,5 @@ document.getElementById("resume-button-1").onclick = ()=>{
 }
 document.getElementById("resume-button-2").onclick = ()=>{
     // location.href= "\\static\\pdf\\Sandeep-Kumar-Resume.pdf"
-    window.open("\\static\\pdf\\Sandeep-Kumar-Resume.pdf.pdf",'_blank')
+    window.open("\\static\\pdf\\Sandeep-Kumar-Resume.pdf",'_blank')
 }
